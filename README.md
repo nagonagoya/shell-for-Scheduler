@@ -4,6 +4,7 @@
 使用サーバ:Apache ＰＨＰも一緒にインストールしています。
 
 今回、開発した環境は、Mac OS　とraspberry piでやりました。
+
 windowsについては、実施しておりませんので、未確認となっております。
 
 shell_pi　ー＞raspberry pi のシェルスクリプトです。
