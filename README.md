@@ -1,5 +1,5 @@
 # shell-for-Scheduler
-これは、Schedulerのwebサーバ構築のシェルスクリプトを掲載しているページです。
+これは、nagonagoya/Schedulerのwebサーバ構築のシェルスクリプトを掲載しているページです。
 
 使用サーバ:Apache ＰＨＰも一緒にインストールしています。
 
