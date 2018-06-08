@@ -1,6 +1,10 @@
 # shell-for-Scheduler
 これは、nagonagoya/Schedulerのwebサーバ構築のシェルスクリプトを掲載しているページです。
 
+このシェルを実行するでけで、nagonagoya/Schedulerのフォルダも一緒に
+
+インストールするようになっています。
+
 使用サーバ:Apache ＰＨＰも一緒にインストールしています。
 
 今回、開発した環境は、docker for Mac OS　とraspberry piでやりました。
